@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - Nursery
+  - Bebe
+  - Pickup
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bg
+  - fg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: layer0
+    uniqueID: 624165801
+    locked: 0
+  - name: layer1
+    uniqueID: 2047603711
+    locked: 0
+  - name: layer2
+    uniqueID: 713074579
+    locked: 0
+  - name: player
+    uniqueID: 654481147
+    locked: 0
